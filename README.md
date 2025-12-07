@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -146,11 +146,10 @@
             <div class="overlay-text">Le Camp Nou</div>
         </div>
 
-    </main>
+
 
     <footer>
         <p><a href="https://www.fcbarcelona.com" target="_blank">Visitez le site officiel du FC Barcelone</a></p>
     </footer>
 
-</body>
-</html>
+
